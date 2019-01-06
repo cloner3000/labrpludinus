@@ -10,7 +10,7 @@ if (isset($_POST['email']) and isset($_POST['password'])) {
 	$count=mysqli_num_rows($query);
 	if ($count == 1) {
 		$_SESSION['login']=$email;
-		echo "<a href='index.php'>klik aku</a>";
+		header('location:index.php');
 		
 	}
 	else{
