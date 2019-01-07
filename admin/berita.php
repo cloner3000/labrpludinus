@@ -28,7 +28,7 @@
 			<td><?php echo $pecah['nama']; ?></td>
 			<td><?php echo $pecah['tanggal']; ?></td>
 			<td><?php echo $pecah['kategori']; ?></td>
-			<td><img src="../image/<?php echo $pecah['gambar']; ?>"></td>
+			<td><img src="../image/<?php echo $pecah['gambar']; ?>" width="30"></td>
 			<td><?php echo $pecah['isi']; ?></td>
 			<td><?php echo $pecah['link']; ?></td>
 			<td>
