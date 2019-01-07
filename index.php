@@ -87,7 +87,7 @@
         </div>
       </li>
       <li class="nav-item">
-            <a class="nav-link" href="admin/index.php" class="page-scroll">Admin</a>
+            <a class="nav-link" href="admin/index.php" class="page-scroll"></a>
       </li>
         </ul>
       </div>    
