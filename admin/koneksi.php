@@ -1,8 +1,8 @@
 <?php
-    $username="sql12272896";
-    $password="AeRIaNTNhv";
+    $username="sql12273958";
+    $password="QDM1yLLnKV";
     $server="sql12.freemysqlhosting.net";
-    $namadatabase="sql12272896";
+    $namadatabase="sql12273958";
     $koneksi=mysqli_connect($server,$username,$password,$namadatabase);
 
     if(!$koneksi){
